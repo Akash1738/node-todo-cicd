@@ -1,2 +1,19 @@
 # node-todo-cicd
-This is the ci/cd pipeline
+
+Run these commands:
+
+
+`sudo apt install nodejs`
+
+
+`sudo apt install npm`
+
+
+`npm install`
+
+`node app.js`
+
+or Run by docker compose
+
+test
+
